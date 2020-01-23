@@ -41,7 +41,7 @@ var blackAndWhite = false;
 var img;
 
 function preload() {
-  img = loadImage('data/pic.png');
+  img = loadImage('data/pic3.png');
 }
 
 function setup() {
